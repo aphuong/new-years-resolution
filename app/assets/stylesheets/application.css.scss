@@ -1,0 +1,19 @@
+/*
+ *= require_self
+ */
+
+
+// variables
+@import 'variables';
+
+// vendor
+@import 'normalize';
+@import 'bootstrap-sprockets';
+@import 'bootstrap-custom';
+@import 'bootstrap';
+@import 'flipclock';
+
+
+// page
+@import 'index';
+@import 'main';
